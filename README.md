@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# React Redux Demo - Login , Register , JWT , MongoDB
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
